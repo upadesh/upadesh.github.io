@@ -3,7 +3,7 @@
     <title>Upadesh Shrestha</title>
     <link href="https://upadesh.github.io/feed.xml" rel="self" />
     <link href="https://upadesh.github.io" />
-    <updated>2020-05-10T21:13:17+05:45</updated>
+    <updated>2020-05-10T21:23:37+05:45</updated>
     <author>
         <name>Upadesh Shrestha</name>
     </author>
@@ -86,58 +86,6 @@
             <![CDATA[
                     <img src="https://upadesh.github.io/media/posts/63/videoservices_600x300.png" alt="" />
                 <p>You can make your own video site like YouTube or Vimeo in blogger with the list of blogger template listed below. You can customize these template to make the collection of videos, movies or anything you want to.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mero Love Story</title>
-        <author>
-            <name>Upadesh Shrestha</name>
-        </author>
-        <link href="https://upadesh.github.io/mero-love-story/index.html"/>
-        <id>https://upadesh.github.io/mero-love-story/index.html</id>
-            <category term="Nepali Movies"/>
-            <category term="Nepali Media"/>
-            <category term="Entertainment"/>
-
-        <updated>2020-04-20T10:02:49+05:45</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://upadesh.github.io/media/posts/62/mero-love-story-nepali-movie-poster.jpg" alt="" />
-                    [jwplayer agw6WFxx-pxatGdXV]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://upadesh.github.io/media/posts/62/mero-love-story-nepali-movie-poster.jpg" alt="" />
-                <p>[jwplayer agw6WFxx-pxatGdXV]</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chha Ekan Chha</title>
-        <author>
-            <name>Upadesh Shrestha</name>
-        </author>
-        <link href="https://upadesh.github.io/chha-ekan-chha/index.html"/>
-        <id>https://upadesh.github.io/chha-ekan-chha/index.html</id>
-            <category term="Nepali Movies"/>
-            <category term="Nepali Media"/>
-            <category term="Entertainment"/>
-
-        <updated>2020-04-20T10:02:48+05:45</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://upadesh.github.io/media/posts/61/chha-ekan-chha-nepali-movie-poster.jpg" alt="" />
-                    [jwplayer dhCZak1p-4kjKOgCH]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://upadesh.github.io/media/posts/61/chha-ekan-chha-nepali-movie-poster.jpg" alt="" />
-                <p>[jwplayer dhCZak1p-4kjKOgCH]</p>
 
             ]]>
         </content>
@@ -295,6 +243,60 @@
             <![CDATA[
                     <img src="https://upadesh.github.io/media/posts/56/himshikar-logo.png" alt="" />
                 <p>[jwplayer mediaid="490"]Himshikhar Television is a 24hrs Nepali TV Channel with Instant news, information and entertainment stuffs. Himshikhar Television started broadcasting from the month of Kartik 2067, as private channel by Himshikhar Media Group of Eastern Nepal with a slogan ‘Education,Information and Entertainment’.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sagarmatha Television</title>
+        <author>
+            <name>Upadesh Shrestha</name>
+        </author>
+        <link href="https://upadesh.github.io/sagarmatha-television/index.html"/>
+        <id>https://upadesh.github.io/sagarmatha-television/index.html</id>
+            <category term="Online TV"/>
+            <category term="Nepali Television"/>
+            <category term="Nepali Media"/>
+
+        <updated>2020-04-20T10:02:41+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://upadesh.github.io/media/posts/55/sagarmatha-logo.png" alt="" />
+                    [jwplayer mediaid="495"]Sagarmatha Television is a broadcast television station from Kathmandu, Nepal, providing News shows. Also known as STV, Sagarmatha Television produces and airs news features and analysis, current affairs, documentaries, live debates, business, sports and social awareness programs inNepali, English, Gurung, Tamang, Newar, Magar, Maithali&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://upadesh.github.io/media/posts/55/sagarmatha-logo.png" alt="" />
+                <p>[jwplayer mediaid="495"]Sagarmatha Television is a broadcast television station from Kathmandu, Nepal, providing News shows. Also known as STV, Sagarmatha Television produces and airs news features and analysis, current affairs, documentaries, live debates, business, sports and social awareness programs inNepali, English, Gurung, Tamang, Newar, Magar, Maithali languages.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Free and Open Source Video Converters</title>
+        <author>
+            <name>Upadesh Shrestha</name>
+        </author>
+        <link href="https://upadesh.github.io/free-and-open-source-video-converters/index.html"/>
+        <id>https://upadesh.github.io/free-and-open-source-video-converters/index.html</id>
+            <category term="Video Transcoder"/>
+            <category term="Video Convertor"/>
+            <category term="Open Source Application"/>
+            <category term="Free and Open Source Application"/>
+            <category term="Free Convertor"/>
+
+        <updated>2020-04-20T10:02:27+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://upadesh.github.io/media/posts/45/video-conveter.png" alt="" />
+                    This list is related to the video conversion software which help you to convert your video to other format suiting your requirement. There are hundreds of converter available today but we are focused particularly on some of those free and open source applications. Please share&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://upadesh.github.io/media/posts/45/video-conveter.png" alt="" />
+                <p>This list is related to the video conversion software which help you to convert your video to other format suiting your requirement. There are hundreds of converter available today but we are focused particularly on some of those free and open source applications. Please share this article if you like it.</p>
 
             ]]>
         </content>
