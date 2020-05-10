@@ -3,7 +3,7 @@
     <title>Upadesh Shrestha</title>
     <link href="https://upadesh.github.io/feed.xml" rel="self" />
     <link href="https://upadesh.github.io" />
-    <updated>2020-05-10T20:49:30+05:45</updated>
+    <updated>2020-05-10T20:54:06+05:45</updated>
     <author>
         <name>Upadesh Shrestha</name>
     </author>
@@ -48,18 +48,17 @@
             <category term="PHP Scripts"/>
             <category term="Blogs"/>
 
-        <updated>2020-05-10T20:49:06+05:45</updated>
+        <updated>2020-05-10T20:53:31+05:45</updated>
             <summary>
                 <![CDATA[
                         <img src="https://upadesh.github.io/media/posts/65/List-Of-Blogs.png" alt="List of PHP Blogs" />
-                     A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often&hellip;
+                    A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://upadesh.github.io/media/posts/65/List-Of-Blogs.png" alt="List of PHP Blogs" />
-                <p><img class="post__image" src="https://upadesh.github.io/media/posts/65/List-Of-Blogs.png" alt=""></p>
-<p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>
+                <p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>
 <p>Below are the list of blogs written in PHP which can be used with any kind of paid or free web hosts.</p>
             ]]>
         </content>
