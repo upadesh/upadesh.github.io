@@ -33,6 +33,7 @@
             "title": "Top List of PHP Blogs",
             "summary": "A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent&hellip;",
             "content_html": "<p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>\n<p>Below are the list of blogs written in PHP which can be used with any kind of paid or free web hosts.</p>",
+            "image": "https://upadesh.github.io/media/posts/65/List-Of-Blogs.png",
             "author": {
                 "name": "Upadesh Shrestha"
             },
@@ -42,7 +43,7 @@
                    "Blogs"
             ],
             "date_published": "2016-05-29T21:54:48+05:45",
-            "date_modified": "2020-04-20T11:01:02+05:45"
+            "date_modified": "2020-05-10T20:42:58+05:45"
         },
         {
             "id": "https://upadesh.github.io/video-template-for-blogger/index.html",
