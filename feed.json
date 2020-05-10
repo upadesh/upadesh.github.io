@@ -28,26 +28,11 @@
             "date_modified": "2020-04-20T10:02:52+05:45"
         },
         {
-            "id": "https://upadesh.github.io/calender.html",
-            "url": "https://upadesh.github.io/calender.html",
-            "title": "Calender",
-            "summary": "[ecwd id=\"1091\"]",
-            "content_html": "<p>[ecwd id=\"1091\"]</p>\n",
-            "author": {
-                "name": "Upadesh Shrestha"
-            },
-            "tags": [
-            ],
-            "date_published": "2016-06-08T15:05:01+05:45",
-            "date_modified": "2020-04-20T10:01:49+05:45"
-        },
-        {
             "id": "https://upadesh.github.io/top-list-of-php-blogs.html",
             "url": "https://upadesh.github.io/top-list-of-php-blogs.html",
             "title": "Top List of PHP Blogs",
             "summary": "A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent&hellip;",
-            "content_html": "<p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>\n<p>Below are the list of blogs written in PHP which can be used with any kind of paid or free web hosts.</p>\n",
-            "image": "https://upadesh.github.io/media/posts/65/blog-featured-1.jpg",
+            "content_html": "<p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>\n<p>Below are the list of blogs written in PHP which can be used with any kind of paid or free web hosts.</p>",
             "author": {
                 "name": "Upadesh Shrestha"
             },
@@ -57,21 +42,7 @@
                    "Blogs"
             ],
             "date_published": "2016-05-29T21:54:48+05:45",
-            "date_modified": "2020-04-20T10:02:53+05:45"
-        },
-        {
-            "id": "https://upadesh.github.io/contact-us.html",
-            "url": "https://upadesh.github.io/contact-us.html",
-            "title": "Contact Us",
-            "summary": "[contact-form-7 id=\"5\" title=\"Contact Us\"]",
-            "content_html": "<p>[contact-form-7 id=\"5\" title=\"Contact Us\"]</p>\n",
-            "author": {
-                "name": "Upadesh Shrestha"
-            },
-            "tags": [
-            ],
-            "date_published": "2016-04-29T11:04:40+05:45",
-            "date_modified": "2020-04-20T10:01:48+05:45"
+            "date_modified": "2020-04-20T11:01:02+05:45"
         },
         {
             "id": "https://upadesh.github.io/video-template-for-blogger.html",
@@ -177,6 +148,41 @@
             ],
             "date_published": "2015-10-19T20:22:30+05:45",
             "date_modified": "2020-04-20T10:02:45+05:45"
+        },
+        {
+            "id": "https://upadesh.github.io/giant-xtc-advanced-29er-1.html",
+            "url": "https://upadesh.github.io/giant-xtc-advanced-29er-1.html",
+            "title": "Giant XTC Advanced 29er 1",
+            "summary": "Giant XTC Advanced 29er 1 is Mountain Hardtail type bike with top speed of 30 gears which might cost approxmately रु. 2,80,000 in Nepal. The weight of bicycle is 5 kg and available in size of S, M, L, XL with the color varient of&hellip;",
+            "content_html": "<p>Giant XTC Advanced 29er 1 is Mountain Hardtail type bike with top speed of 30 gears which might cost approxmately रु. 2,80,000 in Nepal. The weight of bicycle is 5 kg and available in size of S, M, L, XL with the color varient of Metallic Blue/Blue.</p>\n",
+            "image": "https://upadesh.github.io/media/posts/57/giant-xtc-advanced-29er11.jpg",
+            "author": {
+                "name": "Upadesh Shrestha"
+            },
+            "tags": [
+                   "Mountain Bikes",
+                   "Cycles"
+            ],
+            "date_published": "2015-10-05T22:15:07+05:45",
+            "date_modified": "2020-04-20T10:02:44+05:45"
+        },
+        {
+            "id": "https://upadesh.github.io/himshikhar-television.html",
+            "url": "https://upadesh.github.io/himshikhar-television.html",
+            "title": "Himshikhar Television",
+            "summary": "[jwplayer mediaid=\"490\"]Himshikhar Television is a 24hrs Nepali TV Channel with Instant news, information and entertainment stuffs. Himshikhar Television started broadcasting from the month of Kartik 2067, as private channel by Himshikhar Media Group of Eastern Nepal with a slogan ‘Education,Information and Entertainment’.",
+            "content_html": "<p>[jwplayer mediaid=\"490\"]Himshikhar Television is a 24hrs Nepali TV Channel with Instant news, information and entertainment stuffs. Himshikhar Television started broadcasting from the month of Kartik 2067, as private channel by Himshikhar Media Group of Eastern Nepal with a slogan ‘Education,Information and Entertainment’.</p>\n",
+            "image": "https://upadesh.github.io/media/posts/56/himshikar-logo.png",
+            "author": {
+                "name": "Upadesh Shrestha"
+            },
+            "tags": [
+                   "Online TV",
+                   "Nepali Television",
+                   "Nepali Media"
+            ],
+            "date_published": "2015-05-30T15:16:22+05:45",
+            "date_modified": "2020-04-20T10:02:42+05:45"
         }
     ]
 }

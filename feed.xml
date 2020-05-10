@@ -3,7 +3,7 @@
     <title>Upadesh Shrestha</title>
     <link href="https://upadesh.github.io/feed.xml" rel="self" />
     <link href="https://upadesh.github.io" />
-    <updated>2020-04-20T10:11:06+05:45</updated>
+    <updated>2020-05-10T19:21:11+05:45</updated>
     <author>
         <name>Upadesh Shrestha</name>
     </author>
@@ -38,27 +38,6 @@
         </content>
     </entry>
     <entry>
-        <title>Calender</title>
-        <author>
-            <name>Upadesh Shrestha</name>
-        </author>
-        <link href="https://upadesh.github.io/calender.html"/>
-        <id>https://upadesh.github.io/calender.html</id>
-
-        <updated>2020-04-20T10:01:49+05:45</updated>
-            <summary>
-                <![CDATA[
-                    [ecwd id="1091"]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>[ecwd id="1091"]</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Top List of PHP Blogs</title>
         <author>
             <name>Upadesh Shrestha</name>
@@ -69,40 +48,16 @@
             <category term="PHP Scripts"/>
             <category term="Blogs"/>
 
-        <updated>2020-04-20T10:02:53+05:45</updated>
+        <updated>2020-04-20T11:01:02+05:45</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://upadesh.github.io/media/posts/65/blog-featured-1.jpg" alt="" />
                     A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://upadesh.github.io/media/posts/65/blog-featured-1.jpg" alt="" />
                 <p>A blog (or weblog) is an online personal journal that is frequently updated and used for the general public. The blog is determined by their format: a wide range of items are taken on a single page in order. Blogs back in time often represent the personality of the author or reflect the purpose of the web site that hosts the blog. Topics sometimes include brief philosophical musings, commentary on the Internet and other social issues, and links to other sites the author favors, especially those who support a point being made on a post.</p>
 <p>Below are the list of blogs written in PHP which can be used with any kind of paid or free web hosts.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact Us</title>
-        <author>
-            <name>Upadesh Shrestha</name>
-        </author>
-        <link href="https://upadesh.github.io/contact-us.html"/>
-        <id>https://upadesh.github.io/contact-us.html</id>
-
-        <updated>2020-04-20T10:01:48+05:45</updated>
-            <summary>
-                <![CDATA[
-                    [contact-form-7 id="5" title="Contact Us"]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>[contact-form-7 id="5" title="Contact Us"]</p>
-
             ]]>
         </content>
     </entry>
@@ -287,6 +242,57 @@
             <![CDATA[
                     <img src="https://upadesh.github.io/media/posts/58/Giant-Anthem-Advanced-27.5-1.jpg" alt="" />
                 <p>Giant Anthem Advanced 27.5 1 is Mountain Dual Suspension type bike with top speed of 30 gears which might cost approxmately रु. 5,02,000 in Nepal. The weight of bicycle is 12 kg and available in size of S, M, L, XL with the color varient of Silver/Blue.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Giant XTC Advanced 29er 1</title>
+        <author>
+            <name>Upadesh Shrestha</name>
+        </author>
+        <link href="https://upadesh.github.io/giant-xtc-advanced-29er-1.html"/>
+        <id>https://upadesh.github.io/giant-xtc-advanced-29er-1.html</id>
+            <category term="Mountain Bikes"/>
+            <category term="Cycles"/>
+
+        <updated>2020-04-20T10:02:44+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://upadesh.github.io/media/posts/57/giant-xtc-advanced-29er11.jpg" alt="" />
+                    Giant XTC Advanced 29er 1 is Mountain Hardtail type bike with top speed of 30 gears which might cost approxmately रु. 2,80,000 in Nepal. The weight of bicycle is 5 kg and available in size of S, M, L, XL with the color varient of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://upadesh.github.io/media/posts/57/giant-xtc-advanced-29er11.jpg" alt="" />
+                <p>Giant XTC Advanced 29er 1 is Mountain Hardtail type bike with top speed of 30 gears which might cost approxmately रु. 2,80,000 in Nepal. The weight of bicycle is 5 kg and available in size of S, M, L, XL with the color varient of Metallic Blue/Blue.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Himshikhar Television</title>
+        <author>
+            <name>Upadesh Shrestha</name>
+        </author>
+        <link href="https://upadesh.github.io/himshikhar-television.html"/>
+        <id>https://upadesh.github.io/himshikhar-television.html</id>
+            <category term="Online TV"/>
+            <category term="Nepali Television"/>
+            <category term="Nepali Media"/>
+
+        <updated>2020-04-20T10:02:42+05:45</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://upadesh.github.io/media/posts/56/himshikar-logo.png" alt="" />
+                    [jwplayer mediaid="490"]Himshikhar Television is a 24hrs Nepali TV Channel with Instant news, information and entertainment stuffs. Himshikhar Television started broadcasting from the month of Kartik 2067, as private channel by Himshikhar Media Group of Eastern Nepal with a slogan ‘Education,Information and Entertainment’.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://upadesh.github.io/media/posts/56/himshikar-logo.png" alt="" />
+                <p>[jwplayer mediaid="490"]Himshikhar Television is a 24hrs Nepali TV Channel with Instant news, information and entertainment stuffs. Himshikhar Television started broadcasting from the month of Kartik 2067, as private channel by Himshikhar Media Group of Eastern Nepal with a slogan ‘Education,Information and Entertainment’.</p>
 
             ]]>
         </content>
